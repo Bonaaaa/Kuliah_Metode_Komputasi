@@ -4,7 +4,8 @@ Jawablah pertanyaan berikut ini dengan singkat dan jelas
 1. Sebutkan 3 jenis tipe variabel di dalam Python
     * Jawab: integer,string,dan list
 2. Jelaskan mengapa di Python ada aturan Indentation?
-    * Jawab: aturan indentasi bertujuan untuk membuka dan menutup fungsi-fungsi yang dituliskan.
+    * Jawab: aturan indentasi bertujuan untuk membuka dan menutup (membatasi) fungsi-fungsi yang dituliskan.Selain itu dengan indentasi
+             script dapat terlihat rapi.
     
 ## Membuat Program Sederhana
 
